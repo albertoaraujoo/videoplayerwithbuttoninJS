@@ -1,0 +1,5 @@
+This project brings a page with a video and some buttons with JS functions that allow the user to do those commands:
+
+first and second buttons allow the user to go back or forward in time by 3 seconds
+the next two button slow down ou make the video go faster by 0.2 seconds
+and the last two buttons: the first one plays the video and the second stop it, by doing that reseting its time.
