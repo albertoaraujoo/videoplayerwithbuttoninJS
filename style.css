@@ -124,4 +124,15 @@ h1:hover{
     top:40%;
 
 }
+    
+ @media (max-width: 380px){
+     
+.container{
+      width:85vw;
+ }
+     
+.btn{
+ top:35%;
+
+}
 }
