@@ -128,11 +128,11 @@ h1:hover{
  @media (max-width: 380px){
      
 .container{
-      width:85vw;
+      width:80vw;
  }
      
 .btn{
- top:35%;
+ top:30%;
 
 }
 }
