@@ -111,3 +111,17 @@ h1:hover{
         
     }
 }
+
+@media (max-width: 400px){
+
+
+.container{
+    width:90vw;
+}
+
+.btn{
+
+    top:40%;
+
+}
+}
